@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Easyyou2
-- 👀 I’m currently a second-year data science student at Simon Fraser University
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, my name is Jason Lin, or @Easyyou2
+- 👀 I’m currently a second-year data science student at Simon Fraser University. Im passionate in all this data science - in particular, machine learning and data visualization.
+- 🌱 I’m currently learning R, SQL, and python.
+
 
 <!---
 Easyyou2/Easyyou2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
