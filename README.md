@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Jason Lin, or @Easyyou2
-- 👀 I’m currently a second-year data science student at Simon Fraser University. Im passionate in all this data science - in particular, machine learning and data visualization.
+- 👀 I’m currently a third-year data science student at Simon Fraser University. Im passionate in all this data science - in particular, machine learning and data visualization.
 - 🌱 I’m currently learning R, SQL, and python.
 
 
